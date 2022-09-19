@@ -1,2 +1,3 @@
 print("Hello World")
 print("Artem")
+print("hello python")
