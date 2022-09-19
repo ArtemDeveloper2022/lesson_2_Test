@@ -3,4 +3,3 @@ print("Artem")
 print("hello python")
 print("vork")
 print("Print")
-\
